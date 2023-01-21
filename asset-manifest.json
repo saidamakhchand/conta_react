@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/conta_react/static/css/main.a33615b1.css",
+    "main.js": "/conta_react/static/js/main.343af58d.js",
+    "static/js/787.b9329098.chunk.js": "/conta_react/static/js/787.b9329098.chunk.js",
+    "index.html": "/conta_react/index.html",
+    "main.a33615b1.css.map": "/conta_react/static/css/main.a33615b1.css.map",
+    "main.343af58d.js.map": "/conta_react/static/js/main.343af58d.js.map",
+    "787.b9329098.chunk.js.map": "/conta_react/static/js/787.b9329098.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a33615b1.css",
+    "static/js/main.343af58d.js"
+  ]
+}
